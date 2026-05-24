@@ -198,17 +198,17 @@ def titledata():
             "Elder", "Honey", "Nurse", "Doctor", "Rebel", "Shape", "Ally", "Driver", "Deputy", "Wizard"
         ],
         # Bundle and Sign Configurations
-        "BundleBoardSign": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
-        "BundleKioskButton": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
-        "BundleKioskSign": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
-        "BundleLargeSign": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
-        "SeasonalStoreBoardSign": "<color=red>RATE THE GAME 5 STARS!</color>\n<color=blue>.GG/UNLOADTAG</color>",
+        "BundleBoardSign": "<color=#ff4141>DISCORD.GG/dA6AcqygPM</color>",
+        "BundleKioskButton": "<color=#ff4141>DISCORD.GG/dA6AcqygPM</color>",
+        "BundleKioskSign": "<color=#ff4141>DISCORD.GG/dA6AcqygPM</color>",
+        "BundleLargeSign": "<color=#ff4141>DISCORD.GG/dA6AcqygPM</color>",
+        "SeasonalStoreBoardSign": "<color=red>RATE THE GAME 5 STARS!</color>\n<color=blue>DISCORD.GG/dA6AcqygPM</color>",
         # Text and Messages
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
-        "MOTD": "<color=#FFC0CB>WELCOME TO CHRISTMAS TAG!</color>\n\n<color=#0099c2>CURRENT UPDATE: XMAS24</color>\n<color=#cacfd2>BOOST THE DISCORD FOR ALL COSMETICS (EXCLUDING STAFF COS)</color>\n<color=#41ff80>YANDERE MADE THIS MOTD</color>\n<color=#6417ff>OUR DEVELOPERS ARE: FATAL & CASHSMILE</color>\n<color=#ac1a00>CREDITS FOR GAMES OG OS: VIPER</color>\n\n<color=#91A3B0>discord.gg/CHRISTMASTAG</color>",
-        "TOBAlreadyOwnCompTxt": "DISCORD.GG/CHRISTMASTAG",
+        "MOTD": "<color=#FFC0CB>WELCOME TO PROJECT MONKEE REBORN!</color>\n\n<color=#0099c2>CURRENT UPDATE: I LAVA YOU 2023 OR 2024?</color>\n<color=#cacfd2>BOOST THE DISCORD CUS TUFF</color>\n<color=#41ff80>HARMONY MADE THIS MOTD</color>\n<color=#6417ff>OUR DEVELOPERS ARE: HARMONY</color>\n<color=#ac1a00>CREDITS FOR GAMES OG OS: HARMONY</color>\n\n<color=#91A3B0>DISCORD.GG/dA6AcqygPM</color>",
+        "TOBAlreadyOwnCompTxt": "DISCORD.GG/dA6AcqygPM",
         "TOBAlreadyOwnPurchaseBundle": "CHRISTMAS TAG",
-        "TOBDefCompTxt": "DISCORD.GG/CHRISTMASTAG",
+        "TOBDefCompTxt": "DISCORD.GG/dA6AcqygPM",
         "TOBDefPurchaseBtnDefTxt": "CHRISTMAS TAG",
         # Legal and Versions
         "EnableCustomAuthentication": True,
